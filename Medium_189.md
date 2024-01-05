@@ -1,4 +1,3 @@
-
 ## Rotate an array:
 
 [Detailed description here](https://leetcode.com/problems/rotate-array/)      
