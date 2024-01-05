@@ -1,4 +1,4 @@
-## To find single element
+## To find a single element
 
 [Detailed description here](https://leetcode.com/problems/single-number/)    
 
