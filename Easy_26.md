@@ -1,4 +1,4 @@
-# Remove Duplicates from Sorted Array
+# Remove Duplicates from the Sorted Array
 [Detailed description here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)     
 
 unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
